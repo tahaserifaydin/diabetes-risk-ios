@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# macOS
+.DS_Store
